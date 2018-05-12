@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2034
     wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22431#Dave-Darrin-on-Mediterranean-Serviceor-With-Dan-Dalzell-on-European-Duty
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-08-29'
 gutenberg_type: Text
